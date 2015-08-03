@@ -1,2 +1,2 @@
-# salt-pillar-hml
+# salt-pillars-hml
 Repositório para guardar as variáveis (pillars) de homologação do Saltstack
